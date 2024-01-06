@@ -1,0 +1,44 @@
+[
+  {
+    "DinnerName": "Pasta Carbonara",
+    "DinnerNote": "God med julskinka",
+    "DinnerCategory": "Kött",
+    "IsVegetarian": false
+  },
+  {
+    "DinnerName": "Ärtsoppa",
+    "DinnerNote": "God också med fläsk. Använd helst ICA's.",
+    "DinnerCategory": "Soppa",
+    "IsVegetarian": true
+  },
+  {
+    "DinnerName": "Spenatsoppa",
+    "DinnerNote": "Mixa ordentligt. Använd mer vatten/buljong än du tror Tobbe!",
+    "DinnerCategory": "Soppa",
+    "IsVegetarian": true
+  },
+  {
+    "DinnerName": "Pasta putanesca",
+    "DinnerNote": "",
+    "DinnerCategory": "Fisk",
+    "IsVegetarian": false
+  },
+  {
+    "DinnerName": "Stuvade makaroner med köttbullar",
+    "DinnerNote": "Gör köttbullar i ugn enligt ICAs recept.",
+    "DinnerCategory": "Kött",
+    "IsVegetarian": false
+  },
+  {
+    "DinnerName": "Sej m. dijon och purjolök",
+    "DinnerNote": "Görs i ugn. Använd grädde och fiskbuljongtärning.",
+    "DinnerCategory": "Fisk",
+    "IsVegetarian": false
+  },
+  {
+    "DinnerName": "Pastasallad m. bacon",
+    "DinnerNote": "Med stekt bacon, fetaost mm.",
+    "DinnerCategory": "Sallad",
+    "IsVegetarian": false
+  }
+]
